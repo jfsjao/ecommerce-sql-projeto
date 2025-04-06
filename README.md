@@ -7,6 +7,20 @@ O projeto foi implementado com **PostgreSQL** via Docker e os scripts foram test
 
 ---
 
+## 📌 Descrição do Desafio
+
+Refaça a modelagem lógica de um banco de dados relacional para um sistema de e-commerce, com os seguintes pontos:
+
+- Clientes podem ser Pessoa Física ou Jurídica, mas não ambas
+- Pagamento pode ter mais de uma forma cadastrada
+- Entrega deve ter status e código de rastreamento
+
+Implemente a criação do esquema em SQL, insira dados de teste e desenvolva consultas com:
+- `SELECT`, `WHERE`, `ORDER BY`
+- Atributos derivados
+- `JOIN`, `GROUP BY`, `HAVING`
+
+
 ## 📁 Estrutura do Projeto
 
 ```
