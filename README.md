@@ -52,19 +52,19 @@ docker-compose up -d
 ## 📸 Prints das Etapas
 
 ### 📌 Criação das Tabelas
-![criação](Imagens/Etapa_de_criação_tabelas.jpg)
+![criação](Imagens/Etapa_de_criação_tabelas.JPG)
 
 ### 📌 Inserção de Dados e Entregas
-![inserção](Imagens/insercao_dados_entrega.jpg)
+![inserção](Imagens/insercao_dados_entrega.JPG)
 
 ### 📌 Consultas SQL com Resultados
 
 | Consulta | Imagem |
 |---------|--------|
-| Todos os clientes | ![clientes](Imagens/consulta/clientes_todos.jpg) |
-| Pedidos com valor > 200 | ![pedidos](Imagens/consulta/pedidos_acima_200.jpg) |
-| Desconto estimado por pedido | ![desconto](Imagens/consulta/clientes_desconto.jpg) |
-| Entregas com status diferente de 'Entregue' | ![entregas](Imagens/consulta/entregas_status_diferente.jpg) |
+| Todos os clientes | ![clientes](Imagens/consulta/clientes_todos.JPG) |
+| Pedidos com valor > 200 | ![pedidos](Imagens/consulta/pedidos_acima_200.JPG) |
+| Desconto estimado por pedido | ![desconto](Imagens/consulta/clientes_desconto.JPG) |
+| Entregas com status diferente de 'Entregue' | ![entregas](Imagens/consulta/entregas_status_diferente.JPG) |
 
 ---
 
